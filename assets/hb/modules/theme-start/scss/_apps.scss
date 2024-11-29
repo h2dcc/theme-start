@@ -3,7 +3,7 @@
   overflow: auto;
 
   &::-webkit-scrollbar {
-    width: 2px;
+    width: 0px;
   }
 
   &::-webkit-scrollbar-track {
@@ -46,7 +46,7 @@
 }
 
 .hb-start-app {
-  height: 120px;
+  height: 480px;
   opacity: .9;
   transition: .3s;
 
